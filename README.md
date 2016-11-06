@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/fradot/esixstarter.svg?branch=master)](https://travis-ci.org/fradot/esixstarter)
-
-[![devDependencies Status](https://david-dm.org/fradot/esixstarter/dev-status.svg)](https://david-dm.org/fradot/esixstarter?type=dev)
+[![Build Status](https://travis-ci.org/fradot/esixstarter.svg?branch=master)](https://travis-ci.org/fradot/esixstarter)   [![devDependencies Status](https://david-dm.org/fradot/esixstarter/dev-status.svg)](https://david-dm.org/fradot/esixstarter?type=dev)
 
 # Javascript ES6 ready frontend starter template
 
